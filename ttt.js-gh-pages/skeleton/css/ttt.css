@@ -1,0 +1,23 @@
+.tic-tac-toe {
+  width: 330px;
+  margin: 0 auto;
+}
+
+.row{
+  width: 330px;
+}
+
+.square{
+  width: 100px;
+  height: 100px;
+  border: 3px solid black;
+  float: left;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}

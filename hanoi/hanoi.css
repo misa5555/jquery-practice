@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+.tower{
+  width: 210px;
+  height: 210px;
+  float: left;
+  border: 1px black solid;
+}
+
+.blank {
+  height: 70px;
+}
+
+.disc {
+  margin: 0 auto;
+  display: none;
+  height: 70px;
+  background-color: red;
+  border: 1px black solid;
+}
+
+
+/*memo*/
+/*210
+140
+70*/
